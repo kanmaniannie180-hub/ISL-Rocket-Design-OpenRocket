@@ -41,6 +41,26 @@ The project involved rocket geometry design, motor selection, stability assessme
 * Flight Simulation and Performance Evaluation
 
 ---
+## Installation
+
+### Prerequisites
+
+- Java 17 or later
+- OpenRocket
+
+### Download OpenRocket
+
+https://openrocket.info/
+
+### Running the Project
+
+1. Install OpenRocket.
+2. Open the `.ork` file.
+3. Navigate to Flight Simulations.
+4. Run the desired motor configuration.
+5. View trajectory and performance results.
+
+---
 
 ## Rocket Configuration
 
